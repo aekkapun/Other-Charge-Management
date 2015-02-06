@@ -1,0 +1,59 @@
+Message-ID: <f8780e58896d07d09a1a9eeb8762bbb6@10.107.106.122>
+Date: Wed, 21 Jan 2015 07:34:23 +0000
+Subject: Your account has been created
+From: OCM-Admin <support@iic.ac.in>
+To: mac@mailcatch.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1421825663_aed70f2efc5ae9fa792337a2286341ac_=_"
+
+
+--_=_swift_v4_1421825663_aed70f2efc5ae9fa792337a2286341ac_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+       =20
+
+
+Plesae use following credentials to login in OCM.
+
+=
+http://10.107.106.122/ocm/web/index.php/user/login
+
+Username: mac
+
+=
+Password: 123   =20
+
+--_=_swift_v4_1421825663_aed70f2efc5ae9fa792337a2286341ac_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+   =20
+
+
+<p>Plesae use following credentials to login in OCM.</p>
+
+=
+<p>http://10.107.106.122/ocm/web/index.php/user/login</p>
+
+<p>Username:=
+ mac</p>
+
+<p>Password: 123</p>    </body>
+</html>
+
+
+--_=_swift_v4_1421825663_aed70f2efc5ae9fa792337a2286341ac_=_--

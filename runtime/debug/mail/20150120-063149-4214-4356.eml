@@ -1,0 +1,59 @@
+Message-ID: <24402a11fba83a3f1eda47f267b7c8f2@10.107.106.122>
+Date: Tue, 20 Jan 2015 06:31:41 +0000
+Subject: Your account has been created
+From: OCM-Admin <support@iic.ac.in>
+To: nitish.kumar@iic.ac.in
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1421735501_0280e21f35a8b3a30d55ab46c2fbda33_=_"
+
+
+--_=_swift_v4_1421735501_0280e21f35a8b3a30d55ab46c2fbda33_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+       =20
+
+
+Plesae use following credentials to login in OCM.
+
+=
+http://10.107.106.122/ocm/web/index.php/user/login
+
+Username: nitish
+=
+
+Password: 123   =20
+
+--_=_swift_v4_1421735501_0280e21f35a8b3a30d55ab46c2fbda33_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+   =20
+
+
+<p>Plesae use following credentials to login in OCM.</p>
+
+=
+<p>http://10.107.106.122/ocm/web/index.php/user/login</p>
+
+<p>Username:=
+ nitish</p>
+
+<p>Password: 123</p>    </body>
+</html>
+
+
+--_=_swift_v4_1421735501_0280e21f35a8b3a30d55ab46c2fbda33_=_--

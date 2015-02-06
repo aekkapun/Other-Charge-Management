@@ -1,0 +1,105 @@
+Collapse Section 	2.1.1 	-   -    Applied Social Sciences & Humanities 	applied-social-sciences-humanities 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down   	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.1.1 	-   -   -    Business Economics 	business-economics 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down   	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.1.2 	-   -   -    Slavonic & Finno-Ugrian Studies 	slavonic-finno-ugrian-studies 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  Up 	View 	Copy 	Edit 	  	Toggle
+Collapse Section 	2.1.2 	-   -    Arts 	arts 	  	du_faculty_detail 	Advanced Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.1 	-   -   -    Arabic 	arabic 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down   	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.2 	-   -   -    Buddhist Studies 	buddhist-studies 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.3 	-   -   -    English 	english 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.4 	-   -   -    Germanic & Romance Studies 	germanic-romance-studies 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.5 	-   -   -    Hindi 	hindi 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.6 	-   -   -    Library & Information Science 	library-information-science 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.7 	-   -   -    Linguistics 	linguistics 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.8 	-   -   -    Modern Indian Languages and Literary Studies 	modern-indian-languages-and-literary-studies 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.9 	-   -   -    Persian 	persian 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.10 	-   -   -    Philosophy 	philosophy 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.11 	-   -   -    Psychology 	psychology 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.12 	-   -   -    Punjabi 	punjabi 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.13 	-   -   -    Sanskrit 	sanskrit 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.2.14 	-   -   -    Urdu 	urdu 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  Up 	View 	Copy 	Edit 	  	Toggle
+Collapse Section 	2.1.3 	-   -    Commerce & Business Studies 	commerce-business-studies 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.3.1 	-   -   -    Commerce 	commerce 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down   	View 	Copy 	Edit 	  	Toggle
+  	2.1.3.2 	-   -   -    Financial Studies 	financial-studies 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  Up 	View 	Copy 	Edit 	Delete 	Toggle
+Collapse Section 	2.1.4 	-   -    Education 	education 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+  	2.1.4.1 	-   -   -    Education 	education-2 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  	View 	Copy 	Edit 	Delete 	Toggle
+Collapse Section 	2.1.5 	-   -    Interdisciplinary & Applied Sciences 	interdisciplinary-applied-sciences 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.5.1 	-   -   -    Institute of Informatics & Communication 	iic 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down   	View 	Copy 	Edit 	  	Toggle
+  	2.1.5.2 	-   -   -    Bio Physics 	bio-physics 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+Expand Section 	2.1.5.3 	-   -   -    Biochemistry 	biochemistry 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.5.4 	-   -   -    Electronics Science 	electronics-science 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.5.5 	-   -   -    Genetics 	genetics 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.5.6 	-   -   -    Microbiology 	microbiology 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.5.7 	-   -   -    Physical Education & Sports Sciences 	physical-education-sports-sciences 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.5.8 	-   -   -    Plant Molecular Biology 	plant-molecular-biology 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  Up 	View 	Copy 	Edit 	  	Toggle
+Collapse Section 	2.1.6 	-   -    Law 	law 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.6.1 	-   -   -    Law 	law-2 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  	View 	Copy 	Edit 	  	Toggle
+Collapse Section 	2.1.7 	-   -    Management Studies 	management-studies 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.7.1 	-   -   -    Business Management & Industrial Administration 	business-management-industrial-administration 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  	View 	Copy 	Edit 	  	Toggle
+Collapse Section 	2.1.8 	-   -    Mathematical Sciences 	mathematical-sciences 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.8.1 	-   -   -    Computer Science 	computer-science 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down   	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.8.2 	-   -   -    Mathematics 	mathematics 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.8.3 	-   -   -    Operational Research 	operational-research 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.8.4 	-   -   -    Statistics 	statistics 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  Up 	View 	Copy 	Edit 	  	Toggle
+Collapse Section 	2.1.9 	-   -    Medical Sciences 	medical-sciences 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+  	2.1.9.1 	-   -   -    Anaesthesiology & Critical Care 	anaesthesiology-critical-care 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down   	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.2 	-   -   -    Anatomy 	anatomy 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.3 	-   -   -    Community Medicine 	community-medicine 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.4 	-   -   -    Dental Sciences 	dental-sciences 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.5 	-   -   -    Dermatology & Venereology 	dermatology-venereology 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.6 	-   -   -    Forensic Medicine 	forensic-medicine 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.7 	-   -   -    Medical Bio-Chemistry 	medical-bio-chemistry 	  	Simplex_pages 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.8 	-   -   -    Medical Microbiology 	medical-microbiology 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.9 	-   -   -    Medicine 	medicine 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.10 	-   -   -    Obstetrics & Gyanaecology 	obstetrics-gyanaecology 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.11 	-   -   -    Opthalmology 	opthalmology 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.12 	-   -   -    Orthopaedics 	orthopaedics 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.13 	-   -   -    Otolaryngology 	otolaryngology-2 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.14 	-   -   -    Paediatrics 	paediatrics-2 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.15 	-   -   -    Pathology 	pathology 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.16 	-   -   -    Pharmacology 	pharmacology 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.17 	-   -   -    Physiology 	physiology 	  	Simplex_pages 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.18 	-   -   -    Psychiatry 	psychiatry 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.19 	-   -   -    Radio Therapy 	radio-therapy 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.20 	-   -   -    Radiology, Radio-diagnosis & Radiation Medicine 	radiology-radio-diagnosis-radiation-medicine 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.21 	-   -   -    Surgery 	surgery 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.9.22 	-   -   -    Tuberculosis & Respiratory Disease 	tuberculosis-respiratory-disease 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  Up 	View 	Copy 	Edit 	Delete 	Toggle
+Collapse Section 	2.1.10 	-   -    Music & Fine Arts 	music-fine-arts 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.10.1 	-   -   -    Fine Arts 	fine-arts 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down   	View 	Copy 	Edit 	  	Toggle
+Collapse Section 	2.1.10.2 	-   -   -    Music 	music 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  Up 	View 	Copy 	Edit 	  	Toggle
+  	2.1.10.2.1 	-   -   -   -    Ph.D Music 	phd-music 	  	du_generic 	Content 	pns 	Set False 	Set True 	Down   	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.10.2.2 	-   -   -   -    M.A Music 	m-a-music-2 	  	du_generic 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.10.2.3 	-   -   -   -    M.Phil Music 	m-phil-music-2 	  	du_generic 	Content 	pns 	Set False 	Set True 	  Up 	View 	Copy 	Edit 	Delete 	Toggle
+Collapse Section 	2.1.11 	-   -    Open Learning 	open-learning 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+  	2.1.11.1 	-   -   -    Distance & Continuing Education 	distance-continuing-education 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  	View 	Copy 	Edit 	Delete 	Toggle
+Collapse Section 	2.1.12 	-   -    Science 	science 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.12.1 	-   -   -    Anthropology 	anthropology 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down   	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.12.2 	-   -   -    Botany 	botany 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.12.3 	-   -   -    Chemistry 	chemistry 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.12.4 	-   -   -    Environmental Studies 	environmental-studies 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.12.5 	-   -   -    Geology 	geology 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+  	2.1.12.6 	-   -   -    Home Science 	home-science 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.12.7 	-   -   -    Nursing 	nursing 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.12.8 	-   -   -    Pharmacy 	pharmacy 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+Expand Section 	2.1.12.9 	-   -   -    Physics & Astrophysics 	physics-astrophysics 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.12.10 	-   -   -    Zoology 	zoology 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  Up 	View 	Copy 	Edit 	  	Toggle
+Collapse Section 	2.1.13 	-   -    Social Sciences 	social-sciences 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.13.1 	-   -   -    Adult, Continuing Education & Extension 	adult-continuing-education-extension 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down   	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.13.2 	-   -   -    African Studies 	african-studies 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.13.3 	-   -   -    East Asian Studies 	east-asian-studies 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.13.4 	-   -   -    Economics 	economics 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.13.5 	-   -   -    Geography 	geography 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.13.6 	-   -   -    History 	history 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.13.7 	-   -   -    Political Science 	political-science 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.13.8 	-   -   -    Social Work 	social-work 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.13.9 	-   -   -    Sociology 	sociology 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  Up 	View 	Copy 	Edit 	  	Toggle
+Collapse Section 	2.1.14 	-   -    Technology 	technology 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	  	Toggle
+  	2.1.14.1 	-   -   -    Applied Sciences & Humanities 	applied-sciences-humanities 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down   	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.14.2 	-   -   -    Civil Engineering 	civil-engineering 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.14.3 	-   -   -    Computer Engineering 	computer-engineering 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.14.4 	-   -   -    Electrical Engineering 	electrical-engineering 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.14.5 	-   -   -    Electronics & Communication Engineering 	electronics-communication-engineering 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.14.6 	-   -   -    Instrumentation & Control Engineering 	instrumentation-control-engineering 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.14.7 	-   -   -    Mechanical Engineering 	mechanical-engineering 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	Down Up 	View 	Copy 	Edit 	Delete 	Toggle
+  	2.1.14.8 	-   -   -    Production & Industrial Engineering 	production-industrial-engineering 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  Up 	View 	Copy 	Edit 	Delete 	Toggle
+Collapse Section 	2.1.15 	-   -    Affiliated Faculties 	affiliated-faculties 	  	du_dept_detail 	Content 	pns 	Set False 	Set True 	  Up 	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.15.1 	-   -   -    Ayurvedic & Unani Medicine 	ayurvedic-unani-medicine 	  	du_faculty_detail 	Content 	pns 	Set False 	Set True 	Down   	View 	Copy 	Edit 	  	Toggle
+Expand Section 	2.1.15.2 	-   -   -    Homeopathic Medicine 	homoeopathic-medicine-1 	  	du_faculty_detail 	Content 	pns
